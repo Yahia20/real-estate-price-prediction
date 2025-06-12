@@ -97,8 +97,8 @@ real-estate-price-prediction/
 
 * 📉 **Performance on test set:**
 
-  * **MAE:** \~53,000
-  * **RMSE:** \~90,000
+  * **MAE:** \~0.12
+  * **RMSE:** \~0.16
   * **R² Score:** \~0.91
 
 * 🧠 **Top important features:**
