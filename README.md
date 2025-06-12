@@ -3,6 +3,7 @@
 
 A machine learning project that predicts house prices based on various property features using advanced regression models. This end-to-end pipeline includes data cleaning, visualization, feature engineering, model training, hyperparameter tuning, and evaluation.
 
+data: King County, Washington – USA (2014-2015)
 ---
 
 ## 📌 Project Overview
